@@ -1,4 +1,4 @@
-Learnt from tutorials
+Learnt from tutorials!
 Here's the way you run it:
 1. authentication.R   
 2. cleaning_tweet.R, word_database.R  (including positive-words.txt, negative-words.txt)  
