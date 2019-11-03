@@ -5,3 +5,4 @@ Here's the way you run it:
 3. score_sentiment.R, func_on_tweet.R   
 4. percentage.R, graphs.R, top_10_hashtags.R, top_trends.R, wordcloud.R  
 5. Front end folder  
+6. Run them sequentially and you're good to go!
